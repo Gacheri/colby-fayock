@@ -1,2 +1,3 @@
-# colby-fayock
-## Practice projects for Javascript libraries as per Colby Fayock
+# marketing website
+## Project one testing more than my patience
+
