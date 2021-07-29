@@ -1,3 +1,3 @@
-# marketing website
-## Project one testing more than my patience
+# Colby Fayock project guide
+## 50 website practice projects as per Colby Fayock
 
